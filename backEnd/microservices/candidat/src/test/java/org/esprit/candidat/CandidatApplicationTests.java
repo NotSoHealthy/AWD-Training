@@ -1,4 +1,4 @@
-package esprit.candidat;
+package org.esprit.candidat;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
